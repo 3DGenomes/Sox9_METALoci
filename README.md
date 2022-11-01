@@ -6,6 +6,6 @@ METALoci relies on spatial autocorrelation analysis, classically employed in geo
 *****
 **Code**: While we prepare a full python library for METALoci, you can try this [python jupyter notebook](https://github.com/3DGenomes/Sox9_METALoci/blob/main/Sox9_E13.5_METALoci.ipynb) as example on how to analyze the *Sox9* locus from the mouse genome on its differential 3D enhancer hubs during development in gonadal cells (that is, at E10.5 and E13.5 during development).
 *****
-**Contributors**: METALoci is developed at the [MarciusLab](http://www.marciuslab.org) with the contributions of Juan A. Rodríguez as well as conceptual inputs from Oscar Lao. Data for the Sox9 example, as part of our BioRxived manuscript, was generated at the [Lupiañez Lab](https://lupilab.wordpress.com) (MDC-BIMSB, Berlin) by Irene Mota-Gómez.
+**Contributors**: METALoci is developed at the [MarciusLab](http://www.marciuslab.org) with contributions from Marc A. Marti-Renom, Juan A. Rodríguez, and Iago Maceda, as well as conceptual input from Oscar Lao. Data for the Sox9 example, as part of our BioRxived manuscript, was generated at the [Lupiañez Lab](https://lupilab.wordpress.com) (MDC-BIMSB, Berlin) by Irene Mota-Gómez.
 *****
 **Dependencies**: METALoci relies on a series of standard libraries such as SciPy (1.9.1), NumPy (1.21.6), Pandas (1.3.5), Matplotlib (3.5.2), seaborn (0.11.2) as well as other specialized libraries such as GeoPandas (0.10.2), NetworkX (2.6.3), libpysal (4.6.2), ESDA (2.4.1), and pyBigWig library from deepTools (0.3.18).
